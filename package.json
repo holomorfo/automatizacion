@@ -1,0 +1,23 @@
+{
+  "name": "automatizacion",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/holomorfo/automatizacion.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/holomorfo/automatizacion/issues"
+  },
+  "homepage": "https://github.com/holomorfo/automatizacion#readme",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
